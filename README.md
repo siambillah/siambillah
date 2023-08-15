@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://siambillah.github.io/cv/](https://siambillah.github.io/cv/)
 
-- 📝 I regularly write articles on [siambillah.blogspot.com](siambillah.blogspot.com)
+- 📝 I regularly write articles on [https://siambillah.blogspot.com](https://siambillah.blogspot.com)
 
 - 💬 Ask me about **Bootstrap**
 
